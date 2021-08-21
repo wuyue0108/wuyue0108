@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **wuyue0108/wuyue0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<div align="center"><img alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif" /></div>
-
+### Hi there 👋
+Welcome to my GitHub! I'm wuyue0108, i'm trying to be a better Front-end engineer!😄
 <p>
   <a>
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=wuyue0108&show_icons=true&hide_border=true" />
@@ -26,7 +24,6 @@ Here are some ideas to get you started:
   [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyue0108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-Welcome to my GitHub! I'm wuyue0108, i'm trying to be a better Front-end engineer!😄
 ### ✔️ I'm currently learning
 - javaScript
 - Vue
